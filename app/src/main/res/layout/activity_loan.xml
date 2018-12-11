@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/calc"
+    tools:context=".LoanActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="40dp">
+
+        <EditText
+            android:id="@+id/principalAmount"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/principal_amount"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:textColor="@color/white"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"/>
+
+        <EditText
+            android:id="@+id/rate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:hint="@string/rate"
+            android:textColor="@color/white"
+            android:inputType="number"
+            android:layout_marginBottom="16dp" />
+
+        <EditText
+            android:id="@+id/noOfYears"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/no_of_years"
+            android:textColor="@color/white"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"/>
+
+        <info.hoang8f.widget.FButton
+            android:id="@+id/computeLoan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:buttonColor="@color/button"
+            android:text="@string/calculate"
+            android:textColor="@color/white"
+            android:layout_marginBottom="16dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/monthly_payment"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/monthlyPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/monthly_payment"
+            android:textColor="@color/white"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"
+            android:enabled="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/total_payment"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/totalPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:hint="@string/total_payment"
+            android:textColor="@color/white"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"
+            android:enabled="false"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/total_interest"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/totalInterest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/total_interest"
+            android:textColorHint="@color/fbutton_color_silver"
+            android:textColor="@color/white"
+            android:inputType="number"
+            android:layout_marginBottom="16dp"
+            android:enabled="false"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="48dp"
+            android:orientation="horizontal"
+            android:weightSum="2">
+
+            <info.hoang8f.widget.FButton
+                android:id="@+id/btnClear"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="80dp"
+                android:layout_marginRight="80dp"
+                android:layout_gravity="center"
+                app:buttonColor="@color/button"
+                android:background="@color/button"
+                android:text="Clear"
+                android:textColor="@color/white"
+                android:layout_weight="1"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tips" android:title="Tips and Tricks" android:icon="@drawable/cropzone"/>
+    <item android:id="@+id/gallery" android:title="Gallery" android:icon="@drawable/ic_gallery"/>
+    <item android:id="@+id/security" android:title="Security" android:icon="@drawable/security"/>
+    <item android:id="@+id/loan" android:title="Loan Calculate" android:icon="@drawable/loan"/>
+    <item android:id="@+id/contact" android:title="Contact us" android:icon="@drawable/contact"/>
+    <item android:id="@+id/logout" android:title="Log Out" android:icon="@drawable/logout"/>
+
+</menu>

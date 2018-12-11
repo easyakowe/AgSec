@@ -1,0 +1,292 @@
+<resources>
+    <string name="app_name">Agsec</string>
+    <string name="copyright">Copyright. PreciousLord Apps</string>
+    <string name="contact_info">PRECIOUSLORD TECHNOLOGIES \n\n
+        Get in Touch with Us for your:\n
+        - Custom software development\n
+        - Android Application development\n
+        - UI/UX design\n
+        - Web Programming \n\n
+        Contact us on:\n
+        phone: 07063774241 \n
+        email: easyapps@gmail.com \n\n
+    </string>
+
+    <string name="welcome">Welcome </string>
+    <string name="sign_in">Sign In (User)</string>
+    <string name="expertsign_up">Sign Up (Expert)</string>
+    <string name="expertsign_in">Sign In (Expert)</string>
+    <string name="sign_up">Sign Up (User)</string>
+    <string name="dashboard">Dashboard</string>
+
+    <string name="phone_hint">Phone</string>
+    <string name="pass_hint">Password</string>
+    <string name="confirm_pass_hint">Confirm Password</string>
+    <string name="name_hint">Full name</string>
+    <string name="email_hint">Email</string>
+
+    <string name="lgn_question">Dont have an account? </string>
+    <string name="expert_lgn_question">Dont have an account? Register As Expert</string>
+
+    <string name="reg_question">Already have an account? Login</string>
+
+    <string name="lgn_btn_name">Login</string>
+    <string name="expert_lgn_btn_name">Login (Expert)</string>
+    <string name="reg_btn_name">Register</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="title_loan">Loan Calculator</string>
+    <string name="title_loginpage">Login</string>
+    <string name="title_about">About</string>
+    <string name="title_agrobodies">Agro Agencies in Nigeria</string>
+    <string name="title_contact">Contact Us</string>
+    <string name="title_cropzone">Crop Zone</string>
+    <string name="title_loanInfo">Loan Information</string>
+    <string name="title_security">Farm Security</string>
+    <string name="title_tips">Tips and Tricks</string>
+    <string name="title_loancalc">Loan Calculator</string>
+
+
+    <string name="app_motto">An Agro-informatics Application providing informative solution to security-related issues and other farmer information needs</string>
+
+    <string name="about_agric">Agriculture includes farming in all branches and, among other things, includes the cultivation and tillage of soil, dairying, the production, cultivation, growing and harvesting of any agricultural and horticultural commodities, the raising of livestock or poultry, and any practices performed by a farmer on a farm as an incident to or in conjunction with such farming operations, but does not include the manufacturing or processing of sugar, coconuts, abaca, tobacco, pineapple or other farm products. \n
+        “Farming” or “agriculture” shall include farming in all of its branches and the cultivation and tillage of the soil, dairying, the production, cultivation, growing and harvesting of any agricultural, aquacultural, floricultural or horticultural commodities, the growing and harvesting of forest products upon forest land, the raising of livestock including horses, the keeping of horses as a commercial enterprise, the keeping and raising of poultry, swine, cattle and other domesticated animals used for food purposes, bees, fur-bearing animals, and any forestry or lumbering operations, performed by a farmer, who is hereby defined as one engaged in agriculture or farming as herein defined, or on a farm as an incident to or in conjunction with such farming operations, including preparations for market, delivery to storage or to market or to carriers for transportation to market.</string>
+    <string name="agric_wiki">Agriculture is the cultivation of land and breeding of animals and plants to provide food, fiber, medicinal plants and other products to sustain and enhance life.[1] Agriculture was the key development in the rise of sedentary human civilization, whereby farming of domesticated species created food surpluses that enabled people to live in cities. The study of agriculture is known as agricultural science. The history of agriculture dates back thousands of years; people gathered wild grains at least 105,000 years ago and began to plant them around 11,500 years ago before they became domesticated. Pigs, sheep, and cattle were domesticated over 10,000 years ago. Crops originate from at least 11 regions of the world. Industrial agriculture based on large-scale monoculture has in the past century come to dominate agricultural output, though about 2 billion people worldwide still depend on subsistence agriculture. \n
+    The major agricultural products can be broadly grouped into foods, fibers, fuels, and raw materials (such as rubber). Classes of foods include cereals (grains), vegetables, fruits, oils, meat, milk, and eggs. Over one-third of the world's workers are employed in agriculture, second only to the service sector, although the number of agricultural workers in developed countries has decreased significantly over the past several centuries.</string>
+
+    <string name="types">Types of Agriculture</string>
+    <string name="details">There are basically four types of agriculture \n
+    1. Industrialized Agriculture \n
+    2. Subsistence Agriculture \n
+    3. Shifting Cultivation \n
+    4. Pastoral Agriculture</string>
+
+    <string name="subsistence">Subsistence Agriculture</string>
+    <string name="subs_detail">Subsistence agriculture is a self-sufficiency farming system in which the farmers focus on growing enough food to feed themselves and their entire families. The output is mostly for local requirements with little or no surplus trade. The typical subsistence farm has a range of crops and animals needed by the family to feed and clothe themselves during the year. Planting decisions are made principally with an eye toward what the family will need during the coming year, and secondarily toward market prices.</string>
+
+    <string name="industrialized">Industrialized or Intensive Agriculture</string>
+    <string name="ind_detail">Intensive farming involves various types of agriculture with higher levels of input and output per cubic unit of agricultural land area. It is characterized by a low fallow ratio, higher use of inputs such as capital and labour, and higher crop yields per cubic unit land area.[1][2] This contrasts with traditional agriculture, in which the inputs per unit land are lower. The term "intensive" involves various meanings, some of which refer to organic farming methods (such as biointensive agriculture and French intensive gardening), and others that refer to nonorganic and industrial methods.</string>
+
+    <string name="shifting">Shifting Cultivation</string>
+    <string name="shift_detail">Cultivation by shifts is a popular system when farmers use plots of land to grow crops temporary and then let the land revert to its natural vegetation. The farmer works with different plots and always abandons the ones that were used for agriculture and now need some rest.</string>
+
+    <string name="pastoral">Pastoral Agriculture</string>
+    <string name="pas_detail">Pastoral farming (also known in some regions as ranching, livestock farming or grazing) is a form of agriculture aimed at producing livestock, rather than growing crops. Examples include dairy farming, raising beef cattle, and raising sheep for wool. In contrast, arable farming concentrates on crops rather than livestock.</string>
+
+    <string name="types_broad">Types of Farming in a broader sense</string>
+    <string name="broad_detail">
+    1. Alligator farming – establishment for breeding and raising of crocodilians in order to produce meat, leather, and other goods. \n\n
+    2. Aquaculture – farming of aquatic organisms such as fish, crustaceans, molluscs and aquatic plants. \n\n
+    3. Contract farming – agricultural production carried out according to an agreement between a buyer and farmers \n\n
+    4. Dairy farming – class of agricultural, or an animal husbandry, enterprise, for long-term production of milk, usually from dairy cows but also from goats and sheep, which may be either processed on-site or transported to a dairy factory for processing and eventual retail sale. \n\n
+    5. Integrated farming – more integrated approach to farming as compared to existing monoculture approaches. It refers to agricultural systems that integrate livestock and crop production and may sometimes be known as Integrated Biosystems. \n\n
+    6. Orchardry – managing orchards, intentional planting of trees or shrubs that are maintained for food production. Orchards comprise fruit or nut-producing trees which are grown for commercial production. \n\n
+    7. Organic farming – form of agriculture that relies on techniques such as crop rotation, green manure, compost and biological pest control. \n\n
+    8. Pig farming – is the raising and breeding of domestic pigs as livestock, and is a branch of animal husbandry. Pigs are farmed principally to be eaten (e.g. bacon, gammon) or sometimes skinned. \n\n
+    9. Poultry farming - is the process of raising domesticated birds such as chickens, ducks, turkeys and geese for the purpose of farming meat or eggs for food. Poultry are farmed in great numbers with chickens being the most numerous. More than 50 billion chickens are raised annually as a source of food, for both their meat and their eggs. \n\n
+    10. Sericulture – silk farming, the rearing of silkworms for the production of raw silk. \n\n
+    11. Sheep husbandry – specifically dealing with the raising and breeding of domestic sheep.</string>
+
+
+    <!--Agro Agencies in Nigeria-->
+
+    <string name="first">Cocoa Research Institute of Nigeria</string>
+    <string name="first_detail">From Wikipedia, the free encyclopedia \n\n
+The Cocoa Research Institute of Nigeria (CRIN) in Oyo State, Nigeria, is a cocoa research institute established by the Federal Government of Nigeria through the Nigeria Research Institute Act of 1964. The act established research institutes for cocoa, palm oil, coffee and cola.
+CRIN was established to promote and improve the productivity of cocoa and its product in Nigeria and globally. CRIN was originally part of the West Africa Cocoa Research Institute (WACRI) based in Tafo, Ghana.
+Cocoa and its product serves as a source of income and employment for farmers in the cocoa producing states of Nigeria. \n
+The primary function of CRIN is to conduct high quality research in cocoa, kola, and coffee as well as to provide facilities for teaching and research with these agricultural products.
+    </string>
+    <string name="check">For more info, </string>
+
+    <string name="second">National Agricultural Extension, Research and Liaison Services </string>
+    <string name="second_detail">The National Agricultural Extension and Research Liaison Services, of the Ahmadu Bello University (NAERLS/ABU), which was formerly funded by the Federal Ministry of Science and Technology (FMST), is one of the Research Institutes being funded by the Federal Ministry of Agriculture and Natural Resources.
+The Institute is charged with the primary responsibility of research, development, collation, evaluation and dissemination of agricultural technologies to rural farm families and other interested end-users.</string>
+    <string name="check_second">http://www.naerls.gov.ng/</string>
+
+    <string name="third">National Veterinary Research Institute (NVRI)</string>
+    <string name="third_detail">The Veterinary Department was established in Zaria in the West African protectorate in 1913, to conduct livestock census, disease surveys, and disease control by isolation and quarantine, with the help of Village Heads and the Native Authority Administration. In 1924, the Department was moved to Vom, a location on the “Bauchi Plateau” as a Veterinary Laboratory. In the same year, the first biological (anti-rinderpest serum) was produced to control the rinderpest outbreaks. Vom thus became the Pioneer Institute in the West African Sub-Region in the production of Anti Rinderpest Serum and Animal Vaccines. \n
+The Institute is endowed with highly trained manpower with experienced research Scientist in varied fields of Veterinary Sciences and other fields of Applied Sciences and a number of Medical Laboratory and Animal Husbandry Scientists. Research for the development of new vaccines or other methods of disease control to combat emerging diseases of livestock and poultry and improving the vaccines in production is the Institute’s primary area of focus.</string>
+    <string name="check_third">http://www.nvri.gov.ng</string>
+
+    <string name="fourth">Nigerian Agricultural Insurance Corporation</string>
+    <string name="fourth_detail">Before the establishment of NAIC, Nigerian farmers suffered various losses on their investment and had no means of going back to production. The frustration made them to move into cities in droves in search of easy means of livelihood. This situation led to depletion of farming populace, which was a serious threat to food security. The Federal Government was disturbed by the ugly trend, hence the establishment of NAIC to address the need of farmers. \nThe NAIC was established to provide insurance cover to farmers was informed by Government\'s concern over the vacuum created due to the unwillingness of conventional Insurers to accept Agricultural risks, which they considered too risky.</string>
+    <string name="check_fourth">http://www.naic.gov.ng</string>
+
+    <string name="fifth">Agricultural Research Council of Nigeria </string>
+    <string name="fifth_detail">The Agricultural Research Council of Nigeria dedicates itself to achieving significant improvements in agricultural productivity, marketing and competitiveness by generating appropriate technologies and policy options, promoting innovation, establishing a knowledge management capacity and strengthening the agricultural research system.</string>
+    <string name="check_fifth">http://arcnigeria.org</string>
+
+    <string name="sixth">National Horticultural Research Institute </string>
+    <string name="sixth_detail">The National Horticultural Research Institute (NIHORT) located in Ibadan was established in 1975 with the assistance of United Nations Development Programme in conjunction with food and Agricultural Organization as a fruits and vegetables research and demonstration centre. </string>
+    <string name="check_sixth">http://nihort.gov.ng/</string>
+
+    <!--Agro Bodies activity -->
+
+    <string name="one">Agricultural Society of Nigeria</string>
+    <string name="one_detail">The Agricultural Society of Nigeria (ASN) is one of the oldest agriculturally based Societies established in 1962 by the pioneer staff of the Faculty of Agriculture, University of Ibadan, Nigeria. The objects of the Society among others are to foster the pursuit and understanding of both basic and applied agricultural science in Nigeria, to disseminate agricultural knowledge by various publications including a Journal of Agriculture, and the organization of agricultural shows, symposia, seminars, lectures, conferences, etc; to promote the interest of agricultural scientists, farmers and all those connected with the agriculture industry, and to be in close collaboration with societies having related objects both in Nigeria and other parts of the world.</string>
+    <string name="check_one">https://agriculturalsocietynigeria.com/</string>
+
+    <string name="two">Cocoa Association of Nigeria</string>
+    <string name="two_detail">Cocoa Association of Nigeria (CAN) was established in 1986, and replaced the scrapped Nigeria Commodity Board (NCB). It was formed to meet the peculiar needs of cocoa farmers, stakeholders, development and others partners in ensuring the sustainability and development of the sector.
+The Association is the private sector representative of Nigeria in all international organizations involved in cocoa, viz, International Cocoa Organization, Cocoa Producers Alliance, Common Fund for Commodities, etc. \n
+    The Association (CAN) is guided by a constitution registered with the Corporate Affairs Commission (CACN) as a Company Limited by Guarantee.</string>
+    <string name="check_two">https://www.cancocoa.org/</string>
+
+    <string name="three">Women Farmers Advancement Network</string>
+    <string name="three_detail">Women Farmers Advancement Network (WOFAN) located along Gwarzo Road, Opposite Bayero University, Newsite Gate, Kano, Kano State Nigeria was established to train women, men &amp; youth in agricultural related programs such as business management, agriculture, food processing, preservation, water &amp; soil conservation, &amp; improved agricultural technology.</string>
+
+
+    <!--Loan Information activity-->
+
+    <string name="nav_calc">Navigate to Calculator</string>
+
+    <string name="about_loan">A loan is the lending of money by one or more individuals, organizations, and/or other entities to other individuals, organizations etc. The recipient (i.e. the borrower) incurs a debt, and is usually liable to pay interest on that debt until it is repaid, and also to repay the principal amount borrowed.</string>
+    <string name="loan_extra">Lack of sufficient fund is one of the highest causes of a business failure, and a common complaint of business owners in Nigeria is the difficulty experienced in getting a loan to finance their business. Our findings during a radio awareness programme on credit information revealed that a lot of people are looking for ways to fund their businesses. \n
+        The question most asked was “how can I get a loan”?</string>
+    <string name="loan_how">How to increase your chances of getting a Loan</string>
+    <string name="loan_how_detail">
+        \nFrom CRC Credit Bureau \n\n\n
+        1. Character - Personal character is very important when assessing your eligibility for a loan. Before a granting a loan, the bank needs to know what type of person you are. Your credit history comes into play here. The bank will be interested in knowing the types of loans that you have had in the past, and how they were repaid. This information gives an insight into your financial character, and this is one of the ways to improve your chances of getting a loan. When you have a good credit history that shows that you have been diligent in repaying previous loans, the bank perceives you as someone credible enough to be granted a loan. \n\n
+        2. Capacity - This bothers on how much debt can your business sustain. The banks want to know if your business is currently viable enough to repay the loan you are applying for. This is even more difficult for startups who are just launching their business ideas. Because there is no growth yet, it is difficult to determine if the business has the capacity of repaying the loan. \n\n
+        3. Economic Conditions - When the political condition of the country is uncertain, it is possible for banks to slow doing their lending activities to minimize their risk exposure. For a person that wants to get a loan, timing is very important. Applying for loans during such times may affect your chances of getting a loan. \n\n
+        4. Collateral - Collateral is an asset that the lender takes as an alternative source of payment, in case the borrower is unable to repay the loan. You stand a high chance of being granted a loan when you tender a worthy collateral. \n\n
+        5. Business Plan - A lender wants to see how viable your business is. It is important to demonstrate that you have a forward-thinking business that can turn profit. One of the best ways to prove to a lender that you deserve a loan, is by providing a business plan that shows how the loan will increase your revenue. \n\n
+    </string>
+    <string name="loan_org">Organizations that offer Agricultural Loan</string>
+    <string name="loan_org_detail">
+        1. Bank Of Agriculture (BOA) - Bank of Agriculture Limited (BOA) is a Nigerian service agricultural outlet for loans to commercial farmers.\n\n
+            Address: N E D Road, Agidingbi Ikeja, Lagos, Nigeria  \nPhone: +234 803 374 3229, +234 802 323 1161   \nWebsite: http://www.boanig.com \n\n
+        2. NIRSAL - NIRSAL is an agricultural finance services company with services in agricultural loans and financing, loans utilization and repayment.\n\n
+            Address: Plot 1581 Tigris Crescent, Maitama District, Abuja FCT, Nigeria\n    Phone: +234 9 292 0966\n   Website: https://www.nirsal.com\n\n
+        3. RegCharles Finance &amp; Capital Ltd - RegCharles Finance and Capital Limited is non banking financial services institute established to provide loan services, financial advisory &amp; consultancy, Investment management &amp; more to agriculturists, SMEs and more.\n\n
+            Address: 24B Providence Street, Opposite Bras Motors, Lekki Phase 1, Lagos, Nigeria\n     Phone: +234 1 766 0001, +234 1 766 0004, +234 1 766 0018\n    Website: http://www.rfcng.com\n\n
+        4. The Fund for Agricultural Finance in Nigeria - The Fund for Agricultural Finance(FAFIN) is managed by Sahel Capital, &amp; is an innovative agriculture-focused investment fund that provides tailored capital &amp; technical assistance to commercially-viable SMEs &amp; Intermediaries across the agricultural sector.\n\n
+            Address: Plot 14, Block 43A, Chris Maduike, Lekki Phase 1, Lagos Nigeria \n   Phone: +234 1 628 2670\n    Website: http://sahelcp.com\n\n
+    </string>
+
+    <!--Loan calculator Information-->
+
+    <string name="total_interest">Total Interest (₦)</string>
+    <string name="total_payment">Total Payment (₦)</string>
+    <string name="monthly_payment">Monthly Payment (₦)</string>
+    <string name="calculate">Calculate</string>
+    <string name="no_of_years">No of years</string>
+    <string name="rate">Rate (%)</string>
+    <string name="principal_amount">Principal Amount (₦)</string>
+
+    <!--Security activity-->
+
+    <string name="security_intro">Agriculture remains the most dangerous industry to work in in major parts of the world, with an average of 40-50 people killed every year. Even in our own dear country, people, farmers, food growers are being killed all year round due to the recent crisis on ground by the Boko Haram sect and the fulani herdsmen. But the unfortunate thing is that despite recent high-profile campaigns, farmers are still not taking health and safety seriously enough.\n\n
+    In Nigeria, the killings by the fulani herdsmen has really impacted negatively in the lives of Nigerian farmers and food crop production in general. According to recent survey and statistical data, States that have been affected the most by the fulani herdsmen attacks are: Delta, Kaduna, Benue, Niger, Adamawa, Ekiti, Katsina, Nasarawa, Zamfara, Plateau, Abia, Abuja, Anambra, Enugu, Kwara, Ogun, Taraba, Imo, Kogi, Lagos, Oyo and Rivers. Delta, Kaduna, Benue and Niger state have been the worst hit between June 2016 and March 2017 having more than 7 different records of attacks and gruesome killings in the farming region. In the month of January 2017 alone about 11 records of such attacks was made resulting in the death of more than 100 individuals which include farmers and their household.\n
+    </string>
+    <string name="security_aware">Be Aware and Stay Alert</string>
+    <string name="aware_detail">Now given the above statistics, farmers and individuals in general should not stay loose guard. The lives and entire existence of farmers is under threat and the best thing to do now is to take precaution, Be aware and to stay alert. Remain abreast on recent happenings in your state and also your immediate environment and then stay alert to protect your own life, that of your loved ones and your farm. </string>
+    <string name="verify_location">Verify Location</string>
+    <string name="agricultural_safety">Agricultural Safety</string>
+    <string name="desc_of_prediction">Brief description of the prediction given</string>
+    <string name="safe">Safe</string>
+    <string name="verify">Verify</string>
+
+    <string-array name="state_names">
+
+        <item>Select State</item>
+        <item>Abia</item>
+        <item>Adamawa</item>
+        <item>Akwa Ibom</item>
+        <item>Anambra</item>
+        <item>Bauchi</item>
+        <item>Bayelsa</item>
+        <item>Benue</item>
+        <item>Borno</item>
+        <item>CrossRiver</item>
+        <item>Delta</item>
+        <item>Ebonyi</item>
+        <item>Edo</item>
+        <item>Enugu</item>
+        <item>Ekiti</item>
+        <item>Gombe</item>
+        <item>Imo</item>
+        <item>Jigawa</item>
+        <item>Kaduna</item>
+        <item>Kano</item>
+        <item>Katsina</item>
+        <item>Kebbi</item>
+        <item>Kogi</item>
+        <item>Kwara</item>
+        <item>Lagos</item>
+        <item>Nasarawa</item>
+        <item>Niger</item>
+        <item>Ogun</item>
+        <item>Ondo</item>
+        <item>Osun</item>
+        <item>Oyo</item>
+        <item>Plateau</item>
+        <item>Rivers</item>
+        <item>Sokoto</item>
+        <item>Taraba</item>
+        <item>Yobe</item>
+        <item>Zamfara</item>
+        <item>F.C.T. Abuja</item>
+
+    </string-array>
+
+    <string name="safe_advice">You are safe to practise agriculture here. But always be aware of your environment</string>
+    <string name="unsafe_advice">This precentage score is pretty low. Be careful or look for an alternative</string>
+    <string name="maybe_safe_advice">This percentage score is okay but you should still be on the look out. Report any suspicious movements\n\n
+    Police Hotline: 999</string>
+
+    <!--Tips and tricks activity-->
+    <string name="tip1_header">* Soil requirement when growing Crops</string>
+    <string name="tip1_detail">
+        1. Soil texture \n
+        The texture of the soil affects its water holding capacity and its yield eventually which makes it an important feature to look out for. So this must be considered when growing crops because the coarse nature sandy soil creates very large air spaces when compacted. This thus makes water to drains easily and hence becomes unavailable for the crop. Clay soil on the other hand has a very smooth texture and when compacted it has small air spaces which become water logged. Also, when it dries it damages the plant roots hence the plant is not able to translocate food and transport water and it dies eventually.\n
+Loams and sandy loams are the best for growing crops.\n\n
+        2. Soil depth \n
+        Adequate soil volume is a major requirement for crops root development.one should avoid shallow soil when growing crops. Shallow soil leads to: weak anchorage of roots, low available soil moisture for plants and also low exploitable soil nutrients. E.g. rubber growth and yield decreases with poor soil depth.
+    </string>
+    <string name="tip2_header">* Better Crop Production</string>
+    <string name="tip2_detail">
+        1. Switching crops \n
+        More and more crops will eventually become impossible to be cultivated due to heat as a result of climate change. So crop switching may be the future of sustainable agriculture. For instance, in Mexico, the government is looking to varieties of cocoa to replace coffee crops, which may not be suitable to grow by 2025 due to blight and heat.\n
+        With the right technical assistance and packages of better genetics, management practice and inputs, switching crops could be an opportunity for smaller farmers struggling with current crops to leapfrog previous performance and become more productive.\n\n
+        2. Cultivating trees on farms can boost crop yields\n
+        The cultivation of certain trees fixes nitrogen in the soil, protects fields from wind and water erosion and contributes organic matter to soils when its leaves drop. Compared to conventional farms in the country, yields of maize in these agroforestry systems can be doubled.\n\n
+    </string>
+    <string name="advanced">Advanced</string>
+    <string name="advanced_check">Advanced Check</string>
+    <string name="default_reply">-------------------</string>
+
+
+    <!--The Crops Menu-->
+    <string name="source">Source: myafribusiness.com</string>
+    <string name="tomato_info">The demand for this product is very high. Tomatoes are needed raw for domestic use for preparation of stew, sauce and soup and for industrial use in the production of canned tomatoes.\n\nMany tomatoes processing factories in Nigeria most times experience shortage of the product from local farmers which make them to import from neighbouring countries like Niger republic and Benin Republic.  This shows that if you set up your own tomatoes farming, you can be a supplier to both domestic and industrial buyers. It takes about 3 to 4 months to start harvesting your tomatoes after planting.</string>
+    <string name="tomato_buyers_header">Buyers of Tomato in Nigeria</string>
+    <string name="tomato_buyers">Tomato Paste Comapany, Helenex Foods, Active Sector Nigeria Ltd, Mbamis Agro Biz &amp; Investment, National Salt Company Of Nig Plc(dangote Salt) and others.</string>
+
+    <string name="maize_info">This is another crop that is loved by many Nigerians. It can be eaten roasted or boiled. Also, when milled processed, it can be used to make pap. It can also be processed to produce corn flakes.\n\nIt is, unfortunate that in Nigeria most farmers who cultivate maize do so only during rainy seasons. However, this crop can be produced all year round by means of irrigation. Commercial maize farming is highly recommended business as it takes about 3 months for maize to mature after planting.</string>
+    <string name="maize_buyers_header">Buyers of Maize in Nigeria</string>
+    <string name="maize_buyers">ANUGBOBA NIGERIA LTD, FARMRPODUCT ET LIMITED, Ademola &amp; Oluyemisi Olaoti, adeytos success limited, Champion Logistics Nigeria Limited and others.</string>
+
+    <string name="cassava_info">Cassava is the raw material for many food products like garri, cassava flour used in making bread and cakes and other snacks, and even ethanol.\n\n This is one of the best crop farming that gives many people a lot of income in Nigeria. Cassava farming is one of the favourite crop farming in Nigeria because it is easy to cultivate using cassava stems, the time between cultivation and harvesting of cassava  is about 8 to 12 months which is not too long, there is a ready market for the product. It doesn’t need the best of soil to grow. </string>
+    <string name="cassava_buyers_header">Top Best Cassava Buyers In Nigeria </string>
+    <string name="cassava_buyers">GreenTech Industries Limited, Nigerian Starch Mills Limited, Matna Foods Company Limited, Thai Farm International, Ekha Agro Farms Limited and others.</string>
+
+    <string name="beans_info">This is the major source of food protein to Nigerians as other sources of protein like egg and meat might be expensive to the poor. \n\nBeans is a choice food for many Nigerians which makes the cultivation of the crop lucrative. Beans takes about 2 to 3 months to mature after planting.</string>
+
+    <string name="rice_info">Rice is arguably the most eaten food world-wide and even in Nigeria! Every year Nigeria import thousands of metric tons of rice because of inability of the local farmers to meet the large market for rice.\n\nFew people go into rice farming in Nigeria due to what is involved in it.
+It is capital-intensive and it requires a well irrigated farm land. However, any business man or woman who would go into rice farming in Nigeria will generate a lot of revenue because the market for it is large. Rice takes about 4 to 5 months to mature after planting.</string>
+    <string name="oilpalm_info">This is a gold mine! Palm oil which is the major product of oil palm has many domestic and industrial applications which makes oil palm farming to a very lucrative business.\n\nThe only challenge of this business is the long time it takes before oil palm starts to produce fruits after planting which is about 3 to 4 years depending on the specie. However, once, your oil palm starts to produce, you have just dug a well of income for yourself  for many years.</string>
+    <string name="pumpkin_info">this is one of the most eaten vegetables in Nigeria. This crop farming is great because it takes just a month to start harvesting your pumpkin after planting and you can keep harvesting up till 8 months after first harvest.\n\nIt can be planted at your backyard, but for mass production you would need a larger land. It can be planted all year round with adequate irrigation.</string>
+    <string name="egusi_info">Egusi soup is one of the most popular soups in Nigeria, but only few people know how  the egusi seeds are produced. Egusi is the seeds of a specie of wild  melon. Many people do not go into egusi melon farming due to the stress involved in the extraction of the egusi seeds from the melon after maturity.\n\nThis is one of the reasons why the product is quite expensive in the market. However, if you are determined to make money, you can go into the lucrative farming. It takes about 4 to 5 months after planting to harvest the egusi.
+
+</string>
+    <string name="potato_info">Potatoes cultivation is much easier than yam farming as you don’t need to mount long stands as in the case of yam farming.
+Also, the yield of potatoes is very good. 4 to 5 months after cultivation, potatoes are ready for harvesting.\n\nIn fact, in many cases, once you plant potatoes in a land, after harvesting when matured, the following year, you would see some  potatoes to harvest even without planting again.
+Potatoes are loved by most people and this makes the marketing for the product to be easier.</string>
+    <string name="yam_info">Yam is loved by many Nigerians who eat it either as fried, boiled, porridge or as pounded yam taken with soup. In addition to domestic buyers, yam flour industries also buy yam for their production. Also, the period between cultivation and harvesting is about 4 to 5 months.</string>
+
+
+</resources>

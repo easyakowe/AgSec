@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.precious_lord.agsec">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/applaunchlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:parentActivityName=".WelcomeActivity" />
+        <activity
+            android:name=".RegisterActivity"
+            android:parentActivityName=".WelcomeActivity" />
+        <activity android:name=".DashboardActivity" />
+        <activity
+            android:name=".LoanActivity"
+            android:parentActivityName=".LoanInfo" />
+        <activity
+            android:name=".Security"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".Contact"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".About"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".Tips"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".LoanInfo"
+            android:parentActivityName=".DashboardActivity" />
+        <activity
+            android:name=".AgroBodies"
+            android:parentActivityName=".DashboardActivity" />
+        <activity android:name=".CropGallery" />
+        <activity
+            android:name=".ExpertRegister"
+            android:parentActivityName=".WelcomeActivity" />
+        <activity
+            android:name=".ExpertLogin"
+            android:parentActivityName=".LoginActivity" />
+        <activity android:name=".AskQuestions" />
+        <activity android:name=".QuestionHistory" />
+        <activity android:name=".ExpertsQuestionHistory" />
+        <activity android:name=".EditQuestion" />
+        <activity android:name=".Tomato" />
+        <activity android:name=".Maize" />
+        <activity android:name=".Cassava" />
+        <activity android:name=".Beans" />
+        <activity android:name=".Rice" />
+        <activity android:name=".Oilpalm" />
+        <activity android:name=".Pumpkin" />
+        <activity android:name=".Egusi" />
+        <activity android:name=".Potato" />
+        <activity android:name=".Yam"></activity>
+    </application>
+
+</manifest>

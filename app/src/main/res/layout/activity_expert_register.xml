@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/farmtips"
+    tools:context=".ExpertRegister">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:paddingBottom="32dp"
+        android:paddingTop="16dp"
+        android:layout_margin="16dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/icon_femaleuser"
+            android:layout_gravity="center"/>
+
+        <EditText
+            android:id="@+id/expertfullname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
+            android:ems="10"
+            android:hint="Full Name"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/expertemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:ems="10"
+            android:hint="Email"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="textEmailAddress" />
+
+        <EditText
+            android:id="@+id/expertphone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:ems="10"
+            android:hint="Phone"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="phone" />
+
+        <EditText
+            android:id="@+id/expertdomain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:ems="10"
+            android:hint="Domain"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/expertpassword"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="16dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="Password"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/expertconfirmPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:ems="10"
+            android:hint="Confirm Password"
+            android:textColorHint="@color/darkgray"
+            android:textColor="@color/black"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/expertregButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Register"
+            android:textColor="@color/white"
+            android:background="@color/fbutton_color_carrot"
+            android:layout_marginBottom="24dp"/>
+
+        <TextView
+            android:id="@+id/expertloginPrompt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Already have an account?  Login"
+            android:textColor="@color/fbutton_color_carrot"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

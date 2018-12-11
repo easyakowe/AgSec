@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimary">#003366</color>-->
+    <color name="colorPrimary">#02231C</color>
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimaryDark">#39796b</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--<color name="colorAccent">#C7F6EC</color>-->
+    <color name="colorAccent">#2ecc71</color>
+    <color name="logincolor">#C7F6EC</color>
+
+
+    <!--Variations of blue-->
+    <color name="very_light_blue">#E0E8F0</color>
+    <color name="sky_blue">#51A2D9</color>
+    <color name="greenish_blue">#53C0F0</color>
+    <color name="light_blue">#B9E5F3</color>
+
+    <color name="button">#107050</color>
+    <color name="deepYellow">#ffa500</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="lightYellow">#ffff66</color>
+    <color name="sign_in_color">#A9d440</color>
+    <color name="sign_up_color">#39796b</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="darkgreen">#00251a</color>
+    <color name="green">#004d40</color>
+    <color name="darkgray">#6c6c6c</color>
+
+<!--color swatches for FButton-->
+    <color name="fbutton_color_turquoise">#1abc9c</color>
+    <color name="fbutton_color_green_sea">#16a085</color>
+    <color name="fbutton_color_emerald">#2ecc71</color>
+    <color name="fbutton_color_nephritis">#27ae60</color>
+    <color name="fbutton_color_peter_river">#3498db</color>
+    <color name="fbutton_color_belize_hole">#2980b9</color>
+    <color name="fbutton_color_amethyst">#9b59b6</color>
+    <color name="fbutton_color_wisteria">#8e44ad</color>
+    <color name="fbutton_color_wet_asphalt">#34495e</color>
+    <color name="fbutton_color_midnight_blue">#2c3e50</color>
+    <color name="fbutton_color_sun_flower">#f1c40f</color>
+    <color name="fbutton_color_orange">#f39c12</color>
+    <color name="fbutton_color_carrot">#e67e22</color>
+    <color name="fbutton_color_pumpkin">#d35400</color>
+    <color name="fbutton_color_alizarin">#e74c3c</color>
+    <color name="fbutton_color_pomegranate">#c0392b</color>
+    <color name="fbutton_color_clouds">#ecf0f1</color>
+    <color name="fbutton_color_silver">#bdc3c7</color>
+    <color name="fbutton_color_concrete">#95a5a6</color>
+    <color name="fbutton_color_asbestos">#7f8c8d</color>
+    <color name="jet">#343434</color>
+
+    <!--others-->
+
+    <color name="cdSignUp">#66cdaa</color>
+    <color name="cdSignIn">#A9d440</color>
+    <color name="proceed">#66cdaa</color>
+    <color name="light_green">#00ff7f</color>
+    <color name="crop_menu_color_1">#FFC107</color>
+    <color name="crop_menu_color_2">#FFA000</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+</resources>
